@@ -1,0 +1,13 @@
+# Username Password Score Wins Draws Losses
+alice pass123 100 0 0 0
+bob pass123 100 0 0 0
+charlie pass123 100 0 0 0
+david pass123 100 0 0 0
+eva pass123 100 0 0 0
+frank pass123 100 0 0 0
+grace pass123 100 0 0 0
+grandmaster pass123 100 0 0 0
+helen pass123 100 0 0 0
+ian pass123 100 0 0 0
+jack pass123 100 0 0 0
+novice_user pass123 100 0 0 0

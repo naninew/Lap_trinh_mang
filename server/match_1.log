@@ -1,0 +1,16 @@
+============================================================
+                 NETCHESS MATCH REPORT LOG                  
+============================================================
+Match ID:        MATCH_0001
+Start Time:      2026-11-25 02:11:39
+End Time:        2026-11-25 02:11:47
+Duration:        0 min 8 sec
+White Player:    user1 (IP: 127.0.0.1)
+Black Player:    user2 (IP: 127.0.0.1)
+Match Result:    BLACK_WIN
+Reason:          user1 resigned
+Total Moves:     0
+------------------------------------------------------------
+MOVE HISTORY:
+============================================================
+End of report.
